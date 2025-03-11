@@ -11,8 +11,13 @@
 
 - 🚀 I started with Python, but now I’m exploring Django, SQL, and Web Development—learning never stops!.
 
-<h3 align="left">Connect with me:</h3>
-<h1 <a href="https://www.linkedin.com/in/nivetha-d-4263b3350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkdin:</h1>
+<h2>📫 Connect with Me</h2>  
+<ul>
+    <li><strong>GitHub:</strong> <a href="https://github.com/nivethadeva?tab=repositories" target="_blank">Click Here</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nivetha-d-4263b3350?" target="_blank">Click Here</a></li>
+
+</ul>
+
 <p align="left">
 </p>
 
