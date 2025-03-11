@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivethadeva" alt="nivethadeva" /></a> </p>
 
-- 🎓 I have completed my B.COM in Information Technology. [chocho bliss blog](https://nivethad.neocities.org/html/)
+- 🎓 I have completed my B.COM in Information Technology.
 
-- 🌱 Currently learning Django and improving my communication skills. [bootstarp cards](https://nivethadeva.github.io/webpage/)
+- 🌱 Currently learning Django and improving my communication skills.
 
-- 💡 Working on an HTML project – Choco Bliss Blog. [Linkedin](https://www.linkedin.com/in/nivetha-d-4263b3350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💡 Working on an HTML project – Choco Bliss Blog. 
 
-- 🚀 I started with Python, but now I’m exploring Django, SQL, and Web Development—learning never stops! **nivetha2313@gmail.com**
+- 🚀 I started with Python, but now I’m exploring Django, SQL, and Web Development—learning never stops!.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
